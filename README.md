@@ -47,21 +47,73 @@ console.log(`Yuk explore repo-repo gue di bawah, gais!`);
 
 ## 📦 Template & Proyek Frontend
 
-> 🎬 Kalau lo nonton video gue di sosmed dan cuma liat potongan code-nya, **cari nama repo yang sama di bawah ini** buat dapetin source code lengkapnya!
-
 <div align="center">
-
-| 🗂️ Nama Repo | 📝 Deskripsi Singkat | 💰 Status | 🔗 Link |
-|:---|:---|:---:|:---:|
-| `nama-template-1` | Landing page company profile, animasi smooth | 🆓 Gratis | [Buka Repo](https://github.com/GANTI-USERNAME-GITHUB/nama-template-1) |
-| `nama-template-2` | Dashboard admin responsive, dark mode ready | 🆓 Gratis | [Buka Repo](https://github.com/GANTI-USERNAME-GITHUB/nama-template-2) |
-| `nama-template-3` | E-commerce UI lengkap + cart & checkout | 💎 Premium | [Info & Order](https://github.com/GANTI-USERNAME-GITHUB/nama-template-3) |
-| `nama-template-4` | Portfolio personal, super minimalis & cepat | 🆓 Gratis | [Buka Repo](https://github.com/GANTI-USERNAME-GITHUB/nama-template-4) |
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </div>
 
+> 🎬 **Psst!** Kalau lo abis nonton video gue di TikTok/YouTube dan cuma liat potongan code-nya doang... tenang, klik salah satu di bawah ini buat lahap source code lengkapnya 😋👇
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌟 `nama-template-1`
+**Landing Page Company Profile**
+
+Animasi smooth kayak jalan tol malem hari, gak macet 🛣️✨
+
+![Status](https://img.shields.io/badge/Status-🆓_GRATIS-22C55E?style=for-the-badge)
+
+<a href="https://github.com/GANTI-USERNAME-GITHUB/nama-template-1"><img src="https://img.shields.io/badge/Buka%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 `nama-template-2`
+**Dashboard Admin Responsive**
+
+Dark mode ready, mata aman begadang ngoding 🌙👀
+
+![Status](https://img.shields.io/badge/Status-🆓_GRATIS-22C55E?style=for-the-badge)
+
+<a href="https://github.com/GANTI-USERNAME-GITHUB/nama-template-2"><img src="https://img.shields.io/badge/Buka%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💎 `nama-template-3`
+**E-commerce UI Lengkap**
+
+Cart & checkout udah jadi, tinggal lo yang jualan 🛒🔥
+
+![Status](https://img.shields.io/badge/Status-💎_PREMIUM-F59E0B?style=for-the-badge)
+
+<a href="https://github.com/GANTI-USERNAME-GITHUB/nama-template-3"><img src="https://img.shields.io/badge/Info%20%26%20Order-EC4899?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 `nama-template-4`
+**Portfolio Personal**
+
+Minimalis, ringan, loading-nya ngebut kayak lo kejar deadline 🏃💨
+
+![Status](https://img.shields.io/badge/Status-🆓_GRATIS-22C55E?style=for-the-badge)
+
+<a href="https://github.com/GANTI-USERNAME-GITHUB/nama-template-4"><img src="https://img.shields.io/badge/Buka%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-<sub>📌 List di atas terus di-update, pin repo favorit lo langsung dari <b>Profile → Customize your pins</b> biar makin gampang ditemuin!</sub>
+<sub>📌 Terus di-update tiap ada template baru — jangan lupa ⭐ <b>star</b> repo favorit lo biar gampang balik lagi!</sub>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </div>
 
 <br/>
