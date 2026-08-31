@@ -1,72 +1,85 @@
 <!--- HEADER --->
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=C9A96E&center=true&vCenter=true&width=500&lines=LICODE;CRAFTING+DIGITAL+EXPERIENCES" alt="Typing SVG" />
-  <br><br>
-  <p style="font-size:18px; color:#a89f92; letter-spacing:2px;">
-    ✦ A creative front-end space built with precision ✦
+  <h1 style="font-size:64px; font-weight:900; color:#F3E8D0; letter-spacing:12px; margin:0; text-shadow: 0 4px 40px rgba(91,15,27,0.4);">
+    LICODE
+  </h1>
+  <h3 style="font-size:18px; font-weight:700; color:#C9A96E; letter-spacing:8px; margin-top:-8px; text-transform:uppercase;">
+    CRAFTING DIGITAL EXPERIENCES
+  </h3>
+  <br>
+  <p style="font-size:16px; color:#D4C9B8; letter-spacing:1px; font-weight:300;">
+    A creative front-end space built with precision —
   </p>
-  <p style="font-size:15px; color:#c9a96e; letter-spacing:1px;">
+  <p style="font-size:16px; color:#C9A96E; letter-spacing:1px; font-weight:500;">
     modern interfaces · interactive components · premium web templates
   </p>
   <br>
-  <img src="https://img.shields.io/badge/BUILD-C9A96E?style=for-the-badge&logo=vercel&logoColor=1A1A1A" />
-  <img src="https://img.shields.io/badge/DESIGN-C9A96E?style=for-the-badge&logo=figma&logoColor=1A1A1A" />
-  <img src="https://img.shields.io/badge/EXPERIMENT-C9A96E?style=for-the-badge&logo=react&logoColor=1A1A1A" />
-  <img src="https://img.shields.io/badge/SHARE-C9A96E?style=for-the-badge&logo=github&logoColor=1A1A1A" />
+  <img src="https://img.shields.io/badge/✧ BUILD-C9A96E?style=for-the-badge&logo=vercel&logoColor=2B0B10&labelColor=2B0B10" />
+  <img src="https://img.shields.io/badge/✧ DESIGN-C9A96E?style=for-the-badge&logo=figma&logoColor=2B0B10&labelColor=2B0B10" />
+  <img src="https://img.shields.io/badge/✧ EXPERIMENT-C9A96E?style=for-the-badge&logo=react&logoColor=2B0B10&labelColor=2B0B10" />
+  <img src="https://img.shields.io/badge/✧ SHARE-C9A96E?style=for-the-badge&logo=github&logoColor=2B0B10&labelColor=2B0B10" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%" />
 </div>
 
 <br>
 
-## ✦ ABOUT LICODE
+## <span style="color:#C9A96E; font-weight:700; letter-spacing:3px;">✦ ABOUT LICODE</span>
 
-<p align="center">
-  <b>LICODE</b> is a front-end development space dedicated to crafting<br>
-  <span style="color:#c9a96e;">clean, modern, and immersive web experiences.</span>
+<p align="center" style="color:#D4C9B8; font-size:16px; line-height:1.8;">
+  <b style="color:#F3E8D0;">LICODE</b> is a front-end development space dedicated to crafting<br>
+  clean, modern, and immersive web experiences.
 </p>
 
-<p align="center">
+<p align="center" style="color:#D4C9B8; font-size:15px; line-height:1.8;">
   From small UI components to complete web templates,<br>
-  every project is built with a focus on <b style="color:#c9a96e;">visual quality, usability,</b><br>
-  and <b style="color:#f0e8dc;">flawless implementation.</b>
+  every project is built with a focus on <b style="color:#C9A96E;">visual quality, usability,</b><br>
+  and <b style="color:#F3E8D0;">flawless implementation.</b>
 </p>
 
-<blockquote align="center" style="color:#c9a96e; font-style:italic; font-size:18px;">
+<p align="center" style="color:#C9A96E; font-size:18px; font-weight:400; font-style:italic;">
   ✦ LICODE is where ideas become interfaces ✦
-</blockquote>
+</p>
 
 <br>
 
-## ✦ WHAT WE PROVIDE
+## <span style="color:#C9A96E; font-weight:700; letter-spacing:3px;">✦ WHAT WE PROVIDE</span>
 
-<table align="center">
+<table align="center" style="border-collapse:collapse; background:transparent;">
 <tr>
-<td width="50%" style="padding:20px; border: 1px solid #c9a96e22; border-radius:12px;">
+<td width="50%" style="padding:24px 28px; border:1px solid rgba(201,169,110,0.15); border-radius:12px; background:rgba(43,11,16,0.4);">
 
-### <span style="color:#c9a96e;">✦ FREE TEMPLATES</span>
-Accessible front-end templates and components created for learning, experimentation, and personal projects.
+<h3 style="color:#F3E8D0; font-weight:700; letter-spacing:1px; margin:0 0 8px 0;">✦ FREE TEMPLATES</h3>
+<p style="color:#D4C9B8; font-size:14px; line-height:1.7; margin:0;">
+  Accessible front-end templates and components created for learning, experimentation, and personal projects.
+</p>
 
 </td>
-<td width="50%" style="padding:20px; border: 1px solid #c9a96e22; border-radius:12px;">
+<td width="50%" style="padding:24px 28px; border:1px solid rgba(201,169,110,0.15); border-radius:12px; background:rgba(43,11,16,0.4);">
 
-### <span style="color:#c9a96e;">✦ PREMIUM TEMPLATES</span>
-Advanced and polished interfaces designed for developers who want <span style="color:#c9a96e;">ready-to-use front-end resources.</span>
+<h3 style="color:#F3E8D0; font-weight:700; letter-spacing:1px; margin:0 0 8px 0;">✦ PREMIUM TEMPLATES</h3>
+<p style="color:#D4C9B8; font-size:14px; line-height:1.7; margin:0;">
+  Advanced and polished interfaces designed for developers who want <b style="color:#C9A96E;">ready-to-use front-end resources.</b>
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" style="padding:20px; border: 1px solid #c9a96e22; border-radius:12px;">
+<td width="50%" style="padding:24px 28px; border:1px solid rgba(201,169,110,0.15); border-radius:12px; background:rgba(43,11,16,0.4);">
 
-### <span style="color:#c9a96e;">✦ UI COMPONENTS</span>
-Interactive cards, buttons, navigation, animations, forms, and other reusable front-end elements.
+<h3 style="color:#F3E8D0; font-weight:700; letter-spacing:1px; margin:0 0 8px 0;">✦ UI COMPONENTS</h3>
+<p style="color:#D4C9B8; font-size:14px; line-height:1.7; margin:0;">
+  Interactive cards, buttons, navigation, animations, forms, and other reusable front-end elements.
+</p>
 
 </td>
-<td width="50%" style="padding:20px; border: 1px solid #c9a96e22; border-radius:12px;">
+<td width="50%" style="padding:24px 28px; border:1px solid rgba(201,169,110,0.15); border-radius:12px; background:rgba(43,11,16,0.4);">
 
-### <span style="color:#c9a96e;">✦ CREATIVE EXPERIMENTS</span>
-Experimental interfaces and visual concepts exploring modern web design and front-end development.
+<h3 style="color:#F3E8D0; font-weight:700; letter-spacing:1px; margin:0 0 8px 0;">✦ CREATIVE EXPERIMENTS</h3>
+<p style="color:#D4C9B8; font-size:14px; line-height:1.7; margin:0;">
+  Experimental interfaces and visual concepts exploring modern web design and front-end development.
+</p>
 
 </td>
 </tr>
@@ -74,7 +87,7 @@ Experimental interfaces and visual concepts exploring modern web design and fron
 
 <br>
 
-## ✦ TECH STACK
+## <span style="color:#C9A96E; font-weight:700; letter-spacing:3px;">✦ TECH STACK</span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -99,32 +112,38 @@ Experimental interfaces and visual concepts exploring modern web design and fron
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <br>
 
-## ✦ THE PHILOSOPHY
+## <span style="color:#C9A96E; font-weight:700; letter-spacing:3px;">✦ THE PHILOSOPHY</span>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=C9A96E&center=true&vCenter=true&width=600&lines=Simple+doesn't+mean+ordinary." alt="Typing SVG" />
+<p align="center" style="font-size:26px; font-weight:700; color:#F3E8D0; letter-spacing:2px;">
+  Simple doesn't mean ordinary.
 </p>
 
-<p align="center">
+<p align="center" style="color:#D4C9B8; font-size:15px; line-height:1.8;">
   We believe great interfaces don't need unnecessary complexity.<br>
   Every detail matters — from the structure of the code to the smallest interaction on the screen.
 </p>
 
-<p align="center">
-  <b style="color:#c9a96e;">✦ Clean code.</b><br>
-  <b style="color:#c9a96e;">✦ Strong visuals.</b><br>
-  <b style="color:#c9a96e;">✦ Meaningful interactions.</b>
+<p align="center" style="font-size:16px; line-height:2.2;">
+  <b style="color:#C9A96E;">✦ Clean code.</b><br>
+  <b style="color:#C9A96E;">✦ Strong visuals.</b><br>
+  <b style="color:#C9A96E;">✦ Meaningful interactions.</b>
 </p>
 
 <br>
 
-## ✦ FOLLOW THE WORK
+## <span style="color:#C9A96E; font-weight:700; letter-spacing:3px;">✦ FOLLOW THE WORK</span>
 
-<p align="center">
+<p align="center" style="color:#D4C9B8; font-size:14px;">
   Discover new interfaces, experiments, and front-end creations across our social platforms.
 </p>
 
@@ -136,20 +155,22 @@ Experimental interfaces and visual concepts exploring modern web design and fron
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
 <br>
 
-## ✦ COLLABORATE
+## <span style="color:#C9A96E; font-weight:700; letter-spacing:3px;">✦ COLLABORATE</span>
 
-<p align="center">
+<p align="center" style="color:#D4C9B8; font-size:15px;">
   Have an idea, project, or collaboration in mind?<br>
-  <b style="color:#c9a96e;">Let's build something worth looking at.</b>
+  <b style="color:#C9A96E; font-size:17px;">Let's build something worth looking at.</b>
 </p>
 
 <p align="center">
-  <b style="font-size:24px; color:#c9a96e;">LICODE</b><br>
-  <span style="color:#7a7268;">Front-End Development · UI Design · Creative Web</span>
+  <b style="font-size:28px; color:#F3E8D0; letter-spacing:6px; font-weight:700;">LICODE</b><br>
+  <span style="color:#8A7E6E; font-size:13px; letter-spacing:2px;">Front-End Development · UI Design · Creative Web</span>
 </p>
 
 <br>
@@ -158,7 +179,12 @@ Experimental interfaces and visual concepts exploring modern web design and fron
 
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=C9A96E&center=true&vCenter=true&width=300&lines=Build+something+beautiful." alt="Typing SVG" />
+  <b style="font-size:22px; color:#C9A96E; letter-spacing:4px;">LICODE</b>
+  <br>
+  <p style="color:#8A7E6E; font-style:italic; font-size:14px; margin-top:4px;">
+    Build something beautiful.
+  </p>
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
 </div>
