@@ -1,162 +1,109 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+LiCode's+Den;Fullstack+Frontend+Dev;Content+Creator;Code+is+My+Weapon" alt="Typing SVG" />
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Halo,%20Gue%20Licode%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Content%20Creator%20%7C%20Frontend%20Developer%20%7C%20Template%20Maker&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=licode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/licode?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCxxxx?style=social" alt="YouTube Subs" />
+  <img src="https://img.shields.io/tiktok/follow/licode?style=social" alt="TikTok Followers" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Bikin+konten+coding+di+YouTube+%26+TikTok+🎬;Share+template+frontend+gratis+%26+premium+💻;Cek+repo+di+bawah+buat+source+code+lengkap+👇" alt="Typing SVG" />
-</a>
+---
 
-<br/>
+### 👋 Hey, I'm **LiCode**!
+> "Turning complex logic into beautiful pixels. One commit at a time."
 
-![Profile Views](https://komarev.com/ghpvc/?username=GANTI-USERNAME-GITHUB&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/GANTI-USERNAME-GITHUB?style=for-the-badge&color=4A00E0&label=FOLLOWERS&logo=github)
+I'm a **Fullstack Frontend Specialist** who loves crafting **high-end UI/UX**, **interactive components**, and **production-ready templates**. By day I code, by night I create content for **YouTube** & **TikTok**—sharing snippets, tips, and the *behind-the-scenes* of my dev life.
 
-</div>
+---
 
-<br/>
+### 🧠 What You'll Find Here
 
-## 🚀 Tentang Gue
+My GitHub is basically my **digital showroom**. Every repository here is a **complete project**—but on my social media, I only show you the **teaser cuts** (the fancy animations, the tricky hooks, the coolest 10 lines of code).
 
-```javascript
-const licode = {
-  peran: ["Content Creator", "Frontend Developer"],
-  fokus: "Bikin & share template website (gratis & berbayar)",
-  platform: ["YouTube", "TikTok", "Instagram", "Facebook"],
-  misi: "Video di sosmed = potongan code, full source code = di GitHub ini 🔥",
-  motto: "Ngoding santai, hasil rapi ✨",
-};
+**Why?**  
+Because watching a full tutorial is boring. But **cloning and running the full code yourself?** That's where the real learning happens. 😎
 
-console.log(`Yuk explore repo-repo gue di bawah, gais!`);
-```
+---
 
-<br/>
+### 🛠️ Tech Stack & Tools
 
-## 🌐 Temuin Gue Juga Di
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,postgres,graphql,docker,figma&perline=6" />
+</p>
 
-<div align="center">
+---
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GANTI-LINK)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@GANTI-LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GANTI-LINK)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GANTI-LINK)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/GANTI-NOMOR)
+### 📦 Repository Categories
 
-</div>
+| 🆓 **FREE (Open Source)** | 💎 **PREMIUM (Exclusive)** |
+| :---: | :---: |
+| Basic UI Components | Full SaaS Landing Pages |
+| Simple Animation Hooks | Complete E-commerce Frontend |
+| Boilerplate (Vite/Next) | Dashboard + Admin Panel |
+| Utility Functions | Advanced Animations (GSAP/Framer) |
+| *(Credit wajib ya!)* | *(Full support + update 1 tahun)* |
 
-<br/>
+> **How to get Premium?**  
+> DM me on [Instagram](https://instagram.com/licode) or join my [Discord](https://discord.gg/xxxx) for pricing & direct access.
 
-## 📦 Template & Proyek Frontend
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
+### 🎬 How to Use These Repos (The LiCode Way)
 
-> 🎬 **Psst!** Kalau lo abis nonton video gue di TikTok/YouTube dan cuma liat potongan code-nya doang... tenang, klik salah satu di bawah ini buat lahap source code lengkapnya 😋👇
+1.  **Watch the Teaser** on TikTok/YouTube Shorts.
+2.  **Read the vibe**—if the UI matches your need, you're in the right place.
+3.  **Clone this repo** directly to your local machine.
+4.  Run `npm install` & `npm run dev` — and boom, it's alive.
+5.  **Customize** the colors, texts, and assets to make it yours.
 
-<br/>
+> ⚠️ **Disclaimer:** The video only shows *snippets*. The full magic is right here in the source code. No copy-paste from the video, ya! Clone aja langsung.
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🌟 `nama-template-1`
-**Landing Page Company Profile**
+### 📱 Let's Connect & Stay Updated
 
-Animasi smooth kayak jalan tol malem hari, gak macet 🛣️✨
+<p align="center">
+  <a href="https://youtube.com/@licode">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@licode">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/licode">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/xxxx">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:licode@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![Status](https://img.shields.io/badge/Status-🆓_GRATIS-22C55E?style=for-the-badge)
+---
 
-<a href="https://github.com/GANTI-USERNAME-GITHUB/nama-template-1"><img src="https://img.shields.io/badge/Buka%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 📊 GitHub Statistik (Biar Keliatan Pro)
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=licode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="48%" />
+</p>
 
-### 🧩 `nama-template-2`
-**Dashboard Admin Responsive**
+---
 
-Dark mode ready, mata aman begadang ngoding 🌙👀
+### 🧩 Random Dev Quote (Biar Keren)
 
-![Status](https://img.shields.io/badge/Status-🆓_GRATIS-22C55E?style=for-the-badge)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-<a href="https://github.com/GANTI-USERNAME-GITHUB/nama-template-2"><img src="https://img.shields.io/badge/Buka%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💎 `nama-template-3`
-**E-commerce UI Lengkap**
-
-Cart & checkout udah jadi, tinggal lo yang jualan 🛒🔥
-
-![Status](https://img.shields.io/badge/Status-💎_PREMIUM-F59E0B?style=for-the-badge)
-
-<a href="https://github.com/GANTI-USERNAME-GITHUB/nama-template-3"><img src="https://img.shields.io/badge/Info%20%26%20Order-EC4899?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 `nama-template-4`
-**Portfolio Personal**
-
-Minimalis, ringan, loading-nya ngebut kayak lo kejar deadline 🏃💨
-
-![Status](https://img.shields.io/badge/Status-🆓_GRATIS-22C55E?style=for-the-badge)
-
-<a href="https://github.com/GANTI-USERNAME-GITHUB/nama-template-4"><img src="https://img.shields.io/badge/Buka%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>📌 Terus di-update tiap ada template baru — jangan lupa ⭐ <b>star</b> repo favorit lo biar gampang balik lagi!</sub>
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GANTI-USERNAME-GITHUB&show_icons=true&theme=radical&hide_border=true&title_color=A855F7&icon_color=8E2DE2&text_color=ffffff&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI-USERNAME-GITHUB&layout=compact&theme=radical&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0D1117" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI-USERNAME-GITHUB&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A855F7" width="70%"/>
-</div>
-
-<br/>
-
-## 📫 Mau Order Template Premium / Kolaborasi?
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GANTI-EMAIL@gmail.com)
-[![Saweria](https://img.shields.io/badge/Support-Saweria-FFB800?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://saweria.co/GANTI-LINK)
-
-**Jangan lupa follow biar gak ketinggalan konten & template terbaru! 🚀**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <i>"If you can design it, I can code it. If you can code it, I can make it beautiful."</i>
+  <br /><br />
+  <b>© 2026 LiCode. All rights reserved.</b> <br>
+  <sub>Don't forget to star ⭐ the repo if you find it useful!</sub>
+</p>
