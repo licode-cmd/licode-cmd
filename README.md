@@ -1,109 +1,245 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+LiCode's+Den;Fullstack+Frontend+Dev;Content+Creator;Code+is+My+Weapon" alt="Typing SVG" />
-</h1>
+<!--- 🏷️ LiCode Profile - Deep Maroon & Cream Theme --->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=licode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/licode?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCxxxx?style=social" alt="YouTube Subs" />
-  <img src="https://img.shields.io/tiktok/follow/licode?style=social" alt="TikTok Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&duration=3000&pause=500&color=8B1A1A&center=true&vCenter=true&width=500&lines=LiCode's+Atelier;Where+Code+Meets+Artistry;Premium+Frontend+Architect" alt="Typing SVG" />
 </p>
 
----
+<!-- ====== DIVIDER MAROON ====== -->
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/—————————✦—————————_-8B1A1A?style=for-the-badge&logoColor=white" />
+</p>
 
-### 👋 Hey, I'm **LiCode**!
-> "Turning complex logic into beautiful pixels. One commit at a time."
+<!-- ====== BADGES ====== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨_Profile_Views-8B1A1A?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📦_Repositories-8B1A1A?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐦_TikTok-8B1A1A?style=flat-square&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/▶️_YouTube-8B1A1A?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/📸_Instagram-8B1A1A?style=flat-square&logo=instagram&logoColor=white" />
+</p>
 
-I'm a **Fullstack Frontend Specialist** who loves crafting **high-end UI/UX**, **interactive components**, and **production-ready templates**. By day I code, by night I create content for **YouTube** & **TikTok**—sharing snippets, tips, and the *behind-the-scenes* of my dev life.
+<!-- ====== HERO SECTION ====== -->
+<table width="100%" style="background: #F5E6D3; border-radius: 20px; padding: 10px;">
+  <tr>
+    <td align="center" style="padding: 30px;">
+      <h2 style="color: #4A0E0E; font-family: 'Playfair Display', serif; font-size: 28px;">
+        ✦ The LiCode Philosophy ✦
+      </h2>
+      <p style="color: #5C1A1A; font-size: 18px; font-style: italic; max-width: 700px;">
+        "I don't just write code. I compose digital experiences.<br>
+        Every pixel tells a story. Every component has a soul."
+      </p>
+      <br>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=300&color=8B1A1A&center=true&vCenter=true&width=600&lines=React+✦+Next.js+✦+TypeScript;Tailwind+✦+Framer+Motion+✦+GSAP;UI%2FUX+✦+Design+Systems+✦+Animations" alt="Tech Stack" />
+    </td>
+  </tr>
+</table>
 
----
+<!-- ====== DIVIDER ====== -->
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖-8B1A1A?style=for-the-badge&logoColor=white" />
+</p>
 
-### 🧠 What You'll Find Here
+<!-- ====== ABOUT ====== -->
+<table width="100%">
+  <tr>
+    <td width="60%" style="background: #FFF8F0; padding: 25px; border-radius: 15px 0 0 15px;">
+      <h3 style="color: #4A0E0E;">👑 Who Am I?</h3>
+      <p style="color: #5C1A1A; line-height: 1.8;">
+        I'm <strong style="color: #8B1A1A;">LiCode</strong> — a <strong style="color: #8B1A1A;">Frontend Architect</strong> 
+        and <strong style="color: #8B1A1A;">Digital Artisan</strong>. I build premium-grade interfaces 
+        that blend <em>timeless elegance</em> with <em>modern performance</em>.
+      </p>
+      <p style="color: #5C1A1A; line-height: 1.8;">
+        📹 <strong>YouTube & TikTok:</strong> I share <strong style="color: #8B1A1A;">snippet teasers</strong> 
+        of my work — the <em>juicy parts</em>. The full source code? <br>
+        <span style="background: #4A0E0E; color: #F5E6D3; padding: 3px 12px; border-radius: 20px;">
+          ⬇️ It's always right here on GitHub
+        </span>
+      </p>
+    </td>
+    <td width="40%" align="center" style="background: #4A0E0E; padding: 25px; border-radius: 0 15px 15px 0;">
+      <h3 style="color: #F5E6D3;">✨ Core Values</h3>
+      <p style="color: #F5E6D3; line-height: 2;">
+        🎯 Precision<br>
+        🎨 Aesthetics<br>
+        ⚡ Performance<br>
+        🧩 Modularity<br>
+        🔒 Security
+      </p>
+    </td>
+  </tr>
+</table>
 
-My GitHub is basically my **digital showroom**. Every repository here is a **complete project**—but on my social media, I only show you the **teaser cuts** (the fancy animations, the tricky hooks, the coolest 10 lines of code).
+<!-- ====== DIVIDER ====== -->
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖-8B1A1A?style=for-the-badge&logoColor=white" />
+</p>
 
-**Why?**  
-Because watching a full tutorial is boring. But **cloning and running the full code yourself?** That's where the real learning happens. 😎
-
----
-
-### 🛠️ Tech Stack & Tools
+<!-- ====== TECH STACK ====== -->
+<p align="center">
+  <h2 align="center" style="color: #4A0E0E; font-family: 'Playfair Display', serif;">✦ Arsenal of Craft ✦</h2>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,postgres,graphql,docker,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,postgres,graphql,prisma,docker,figma,git&perline=7" />
 </p>
 
----
+<!-- ====== DIVIDER ====== -->
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖-8B1A1A?style=for-the-badge&logoColor=white" />
+</p>
 
-### 📦 Repository Categories
+<!-- ====== PRICING TABLE (MAROON THEME) ====== -->
+<h2 align="center" style="color: #4A0E0E; font-family: 'Playfair Display', serif;">✦ Repository Tiers ✦</h2>
 
-| 🆓 **FREE (Open Source)** | 💎 **PREMIUM (Exclusive)** |
-| :---: | :---: |
-| Basic UI Components | Full SaaS Landing Pages |
-| Simple Animation Hooks | Complete E-commerce Frontend |
-| Boilerplate (Vite/Next) | Dashboard + Admin Panel |
-| Utility Functions | Advanced Animations (GSAP/Framer) |
-| *(Credit wajib ya!)* | *(Full support + update 1 tahun)* |
+<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <!-- FREE COLUMN -->
+    <td width="50%" style="background: #F5E6D3; padding: 25px; border-radius: 15px; border: 2px solid #8B1A1A;">
+      <h3 align="center" style="color: #4A0E0E;">🆓 OPEN SOURCE</h3>
+      <h1 align="center" style="color: #8B1A1A; font-size: 48px; margin: 5px 0;">FREE</h1>
+      <p align="center" style="color: #5C1A1A; font-style: italic;">"For the community, with love."</p>
+      <hr style="border: 1px solid #8B1A1A; opacity: 0.3;">
+      <ul style="color: #5C1A1A; list-style: none; padding: 0; line-height: 2.2;">
+        <li>✅ UI Component Libraries</li>
+        <li>✅ Animation Hooks (useScroll, useSpring)</li>
+        <li>✅ Boilerplate Templates (Vite/Next)</li>
+        <li>✅ Utility Functions</li>
+        <li>✅ Starter Kits</li>
+      </ul>
+      <br>
+      <p align="center" style="color: #5C1A1A; font-size: 14px;">
+        ⚠️ <em>Attribution required — credit @LiCode</em>
+      </p>
+    </td>
+    
+    <!-- PREMIUM COLUMN -->
+    <td width="50%" style="background: #4A0E0E; padding: 25px; border-radius: 15px; border: 2px solid #F5E6D3;">
+      <h3 align="center" style="color: #F5E6D3;">💎 PREMIUM</h3>
+      <h1 align="center" style="color: #F5E6D3; font-size: 48px; margin: 5px 0;">$$$</h1>
+      <p align="center" style="color: #F5E6D3; font-style: italic;">"Exclusive access. Full power."</p>
+      <hr style="border: 1px solid #F5E6D3; opacity: 0.3;">
+      <ul style="color: #F5E6D3; list-style: none; padding: 0; line-height: 2.2;">
+        <li>👑 Full SaaS Landing Pages</li>
+        <li>👑 Complete E-commerce Frontend</li>
+        <li>👑 Admin Dashboard + Analytics</li>
+        <li>👑 Advanced GSAP/Framer Animations</li>
+        <li>👑 1-Year Updates + Priority Support</li>
+      </ul>
+      <br>
+      <p align="center" style="color: #F5E6D3; font-size: 14px;">
+        💬 <em>DM me for pricing & access</em>
+      </p>
+    </td>
+  </tr>
+</table>
 
-> **How to get Premium?**  
-> DM me on [Instagram](https://instagram.com/licode) or join my [Discord](https://discord.gg/xxxx) for pricing & direct access.
+<!-- ====== DIVIDER ====== -->
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖-8B1A1A?style=for-the-badge&logoColor=white" />
+</p>
 
----
+<!-- ====== HOW TO USE ====== -->
+<h2 align="center" style="color: #4A0E0E; font-family: 'Playfair Display', serif;">✦ The LiCode Workflow ✦</h2>
 
-### 🎬 How to Use These Repos (The LiCode Way)
+<table width="100%" style="background: #F5E6D3; border-radius: 15px; padding: 10px;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <table width="80%" style="margin: auto;">
+        <tr>
+          <td align="center" style="padding: 15px;">
+            <span style="background: #4A0E0E; color: #F5E6D3; border-radius: 50%; padding: 8px 16px; font-weight: bold;">1</span>
+            <p style="color: #5C1A1A;">📱 Watch the <strong style="color: #8B1A1A;">teaser</strong> on TikTok/YouTube</p>
+          </td>
+          <td align="center" style="padding: 15px;">
+            <span style="background: #4A0E0E; color: #F5E6D3; border-radius: 50%; padding: 8px 16px; font-weight: bold;">2</span>
+            <p style="color: #5C1A1A;">🔍 Find the repo <strong style="color: #8B1A1A;">here</strong> on GitHub</p>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 15px;">
+            <span style="background: #4A0E0E; color: #F5E6D3; border-radius: 50%; padding: 8px 16px; font-weight: bold;">3</span>
+            <p style="color: #5C1A1A;">⬇️ <strong style="color: #8B1A1A;">Clone</strong> the full source code</p>
+          </td>
+          <td align="center" style="padding: 15px;">
+            <span style="background: #4A0E0E; color: #F5E6D3; border-radius: 50%; padding: 8px 16px; font-weight: bold;">4</span>
+            <p style="color: #5C1A1A;">🚀 Run <code style="background: #4A0E0E; color: #F5E6D3; padding: 2px 10px; border-radius: 5px;">npm install && npm run dev</code></p>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <p style="color: #5C1A1A; font-size: 16px;">
+        ⚡ <strong style="color: #8B1A1A;">No copy-paste from video!</strong> 
+        <span style="background: #4A0E0E; color: #F5E6D3; padding: 2px 15px; border-radius: 20px;">
+          Get the real code here
+        </span>
+      </p>
+    </td>
+  </tr>
+</table>
 
-1.  **Watch the Teaser** on TikTok/YouTube Shorts.
-2.  **Read the vibe**—if the UI matches your need, you're in the right place.
-3.  **Clone this repo** directly to your local machine.
-4.  Run `npm install` & `npm run dev` — and boom, it's alive.
-5.  **Customize** the colors, texts, and assets to make it yours.
+<!-- ====== DIVIDER ====== -->
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖_❖-8B1A1A?style=for-the-badge&logoColor=white" />
+</p>
 
-> ⚠️ **Disclaimer:** The video only shows *snippets*. The full magic is right here in the source code. No copy-paste from the video, ya! Clone aja langsung.
-
----
-
-### 📱 Let's Connect & Stay Updated
+<!-- ====== SOCIAL LINKS (MAROON BG) ====== -->
+<p align="center">
+  <h2 align="center" style="color: #4A0E0E; font-family: 'Playfair Display', serif;">✦ Find Me Here ✦</h2>
+</p>
 
 <p align="center">
   <a href="https://youtube.com/@licode">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/▶️_YouTube-8B1A1A?style=for-the-badge&logo=youtube&logoColor=F5E6D3&labelColor=4A0E0E" />
   </a>
   <a href="https://tiktok.com/@licode">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎵_TikTok-8B1A1A?style=for-the-badge&logo=tiktok&logoColor=F5E6D3&labelColor=4A0E0E" />
   </a>
   <a href="https://instagram.com/licode">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/📸_Instagram-8B1A1A?style=for-the-badge&logo=instagram&logoColor=F5E6D3&labelColor=4A0E0E" />
   </a>
   <a href="https://discord.gg/xxxx">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/💬_Discord-8B1A1A?style=for-the-badge&logo=discord&logoColor=F5E6D3&labelColor=4A0E0E" />
   </a>
   <a href="mailto:licode@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/✉️_Email-8B1A1A?style=for-the-badge&logo=gmail&logoColor=F5E6D3&labelColor=4A0E0E" />
   </a>
 </p>
 
----
-
-### 📊 GitHub Statistik (Biar Keliatan Pro)
-
+<!-- ====== DIVIDER ====== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=licode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="48%" />
+  <img src="https://custom-icon-badges.demolab.com/badge/—————————✦—————————_-8B1A1A?style=for-the-badge&logoColor=white" />
 </p>
 
----
-
-### 🧩 Random Dev Quote (Biar Keren)
+<!-- ====== GITHUB STATS (MAROON THEME) ====== -->
+<h2 align="center" style="color: #4A0E0E; font-family: 'Playfair Display', serif;">✦ GitHub Chronicles ✦</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=licode&show_icons=true&theme=radical&hide_border=true&bg_color=1A0A0A&title_color=8B1A1A&icon_color=F5E6D3&text_color=F5E6D3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licode&layout=compact&theme=radical&hide_border=true&bg_color=1A0A0A&title_color=8B1A1A&text_color=F5E6D3" width="48%" />
 </p>
 
----
-
+<!-- ====== DIVIDER ====== -->
 <p align="center">
-  <i>"If you can design it, I can code it. If you can code it, I can make it beautiful."</i>
-  <br /><br />
-  <b>© 2026 LiCode. All rights reserved.</b> <br>
-  <sub>Don't forget to star ⭐ the repo if you find it useful!</sub>
+  <img src="https://custom-icon-badges.demolab.com/badge/—————————✦—————————_-8B1A1A?style=for-the-badge&logoColor=white" />
+</p>
+
+<!-- ====== QUOTE ====== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=1A0A0A" />
+</p>
+
+<!-- ====== FOOTER ====== -->
+<p align="center" style="color: #5C1A1A; font-size: 14px;">
+  <br>
+  <span style="border-top: 2px solid #8B1A1A; padding-top: 15px; display: inline-block;">
+    ⚜️ <strong style="color: #8B1A1A;">LiCode</strong> ⚜️
+  </span>
+  <br>
+  <span style="color: #8B1A1A;">© 2026 — Crafted with ❤️ and ☕</span>
+  <br>
+  <span style="color: #8B1A1A; font-size: 12px;">
+    ⭐ Don't forget to <strong style="color: #4A0E0E;">star</strong> this repo if it helps you!
+  </span>
 </p>
