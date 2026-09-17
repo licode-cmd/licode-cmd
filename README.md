@@ -398,26 +398,6 @@ See the interfaces, experiments, and development process behind LICODE.
 
 ---
 
-<div align="center">
-
-# 🌐 EXPLORE LICODE
-
-<a href="https://github.com/licode-cmd">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE_PROJECTS-5B0F1B?style=for-the-badge&logo=github&logoColor=F3E8D0">
-</a>
-<a href="https://www.youtube.com/@licodee">
-<img src="https://img.shields.io/badge/YOUTUBE-WATCH_THE_WORK-5B0F1B?style=for-the-badge&logo=youtube&logoColor=F3E8D0">
-</a>
-<a href="https://www.tiktok.com/@nihcode">
-<img src="https://img.shields.io/badge/TIKTOK-FOLLOW_THE_WORK-5B0F1B?style=for-the-badge&logo=tiktok&logoColor=F3E8D0">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 # 🤝 COLLABORATION
 
 Have an idea, project, or creative concept?
