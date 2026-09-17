@@ -2,32 +2,31 @@
 
 <br>
 
-# LICODE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0909,50:5B0F1B,100:A33A4A&height=220&section=header&text=LICODE&fontSize=70&fontColor=F3E8D0&fontAlignY=38&desc=CRAFTING%20DIGITAL%20EXPERIENCES&descAlignY=58&descSize=18&descColor=D6A85F&animation=fadeIn" width="100%"/>
 
-### CRAFTING DIGITAL EXPERIENCES
+<br>
+
+### BUILD · DESIGN · EXPERIMENT · SHARE
 
 <p>
-  Building modern web interfaces, interactive experiences,
-  <br>
-  and reusable front-end resources.
+A creative front-end space focused on building
+<br>
+<b>modern interfaces, interactive experiences, and web templates.</b>
 </p>
 
 <br>
 
 <a href="https://github.com/licode-cmd">
-  <img src="https://img.shields.io/badge/GitHub-LICODE-2B0B10?style=for-the-badge&logo=github&logoColor=F3E8D0">
+<img src="https://img.shields.io/badge/GitHub-LICODE-171010?style=for-the-badge&logo=github&logoColor=F3E8D0">
 </a>
+
 <a href="https://www.youtube.com/@licodee">
-  <img src="https://img.shields.io/badge/YouTube-LICODE-2B0B10?style=for-the-badge&logo=youtube&logoColor=F3E8D0">
+<img src="https://img.shields.io/badge/YouTube-LICODE-171010?style=for-the-badge&logo=youtube&logoColor=FF0033">
 </a>
+
 <a href="https://www.tiktok.com/@nihcode">
-  <img src="https://img.shields.io/badge/TikTok-@nihcode-2B0B10?style=for-the-badge&logo=tiktok&logoColor=F3E8D0">
+<img src="https://img.shields.io/badge/TikTok-@nihcode-171010?style=for-the-badge&logo=tiktok&logoColor=F3E8D0">
 </a>
-
-<br>
-<br>
-
-`BUILD` &nbsp; · &nbsp; `DESIGN` &nbsp; · &nbsp; `EXPERIMENT` &nbsp; · &nbsp; `SHARE`
 
 <br>
 <br>
@@ -36,198 +35,309 @@
 
 ---
 
-## ABOUT
+## ✦ ABOUT LICODE
 
 **LICODE** is a front-end development and creative web space focused on
 building modern digital experiences.
 
-We create interfaces that combine:
+We explore the intersection of:
 
-- Visual design
-- Interaction
-- Motion
-- Responsive layouts
-- Reusable components
-- Clean and maintainable code
+**Design × Code × Interaction × Motion**
 
-From focused UI components to complete web experiences,
-LICODE explores the intersection between **design and development**.
+From small UI components to complete web experiences,
+LICODE focuses on creating interfaces that are:
+
+- visually engaging
+- responsive
+- interactive
+- accessible
+- maintainable
+- built with modern web technologies
+
+> **We don't just build interfaces.  
+> We build experiences worth exploring.**
 
 ---
 
-## WHAT WE BUILD
+## ◈ WHAT WE BUILD
 
 <table>
 <tr>
-<td width="50%">
 
-### WEB TEMPLATES
+<td width="50%" valign="top">
 
-Modern front-end templates designed
-for personal projects, experimentation,
-and real-world use cases.
+### ◉ WEB TEMPLATES
+
+Modern front-end templates designed for:
+
+- Personal projects
+- Creative websites
+- Landing pages
+- Web applications
+- Experiments
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◉ UI COMPONENTS
+
+Reusable interface elements such as:
+
+- Cards
+- Forms
+- Navigation
+- Buttons
+- Carousels
+- Dashboards
+- Authentication UI
 
 </td>
 
-<td width="50%">
-
-### UI COMPONENTS
-
-Interactive cards, navigation,
-forms, buttons, dashboards,
-carousels, and reusable interface systems.
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
 
-### INTERACTIVE EXPERIENCES
+<td width="50%" valign="top">
 
-Motion, transitions, micro-interactions,
-3D effects, animations, and
-creative visual interactions.
+### ◉ INTERACTIVE EXPERIENCES
+
+Exploring:
+
+- Motion
+- Micro-interactions
+- 3D interfaces
+- CSS animations
+- Transitions
+- Scroll effects
+- Interactive components
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◉ CREATIVE WEB
+
+Experimental concepts that explore
+new visual directions and interaction patterns
+for the modern web.
 
 </td>
 
-<td width="50%">
-
-### CREATIVE WEB
-
-Experimental interfaces and digital
-concepts exploring new approaches
-to modern web design and development.
-
-</td>
 </tr>
 </table>
 
 ---
 
-## TECHNOLOGY
+## ⚡ TECHNOLOGY
 
-LICODE works across the modern front-end ecosystem, with an emphasis on
-writing clean, responsive, accessible, and maintainable interfaces.
+LICODE works with modern web technologies
+across the front-end ecosystem.
 
-### Core Web
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-2B0B10?style=for-the-badge&logo=html5&logoColor=F3E8D0">
-<img src="https://img.shields.io/badge/CSS3-2B0B10?style=for-the-badge&logo=css3&logoColor=F3E8D0">
-<img src="https://img.shields.io/badge/JavaScript-2B0B10?style=for-the-badge&logo=javascript&logoColor=F3E8D0">
-<img src="https://img.shields.io/badge/TypeScript-2B0B10?style=for-the-badge&logo=typescript&logoColor=F3E8D0">
-</p>
-
-### Frameworks & Libraries
+### CORE WEB
 
 <p>
-<img src="https://img.shields.io/badge/React-2B0B10?style=for-the-badge&logo=react&logoColor=F3E8D0">
-<img src="https://img.shields.io/badge/Next.js-2B0B10?style=for-the-badge&logo=next.js&logoColor=F3E8D0">
-<img src="https://img.shields.io/badge/Tailwind_CSS-2B0B10?style=for-the-badge&logo=tailwindcss&logoColor=F3E8D0">
+
+<img src="https://img.shields.io/badge/HTML5-0B0909?style=for-the-badge&logo=html5&logoColor=E34F26">
+
+<img src="https://img.shields.io/badge/CSS3-0B0909?style=for-the-badge&logo=css3&logoColor=1572B6">
+
+<img src="https://img.shields.io/badge/JavaScript-0B0909?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+<img src="https://img.shields.io/badge/TypeScript-0B0909?style=for-the-badge&logo=typescript&logoColor=3178C6">
+
 </p>
 
-### Tooling & Workflow
+### FRAMEWORKS & LIBRARIES
 
 <p>
-<img src="https://img.shields.io/badge/Vite-2B0B10?style=for-the-badge&logo=vite&logoColor=F3E8D0">
-<img src="https://img.shields.io/badge/npm-2B0B10?style=for-the-badge&logo=npm&logoColor=F3E8D0">
-<img src="https://img.shields.io/badge/Git-2B0B10?style=for-the-badge&logo=git&logoColor=F3E8D0">
-<img src="https://img.shields.io/badge/GitHub-2B0B10?style=for-the-badge&logo=github&logoColor=F3E8D0">
+
+<img src="https://img.shields.io/badge/React-0B0909?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<img src="https://img.shields.io/badge/Next.js-0B0909?style=for-the-badge&logo=next.js&logoColor=F3E8D0">
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B0909?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8">
+
+</p>
+
+### TOOLING
+
+<p>
+
+<img src="https://img.shields.io/badge/Vite-0B0909?style=for-the-badge&logo=vite&logoColor=646CFF">
+
+<img src="https://img.shields.io/badge/npm-0B0909?style=for-the-badge&logo=npm&logoColor=CB3837">
+
+<img src="https://img.shields.io/badge/Git-0B0909?style=for-the-badge&logo=git&logoColor=F05032">
+
+<img src="https://img.shields.io/badge/GitHub-0B0909?style=for-the-badge&logo=github&logoColor=F3E8D0">
+
 </p>
 
 ---
 
-## ENGINEERING FOCUS
+## 🧩 ENGINEERING FOCUS
 
-LICODE doesn't focus only on making interfaces look good.
+<table>
 
-We also care about how those interfaces are built.
+<tr>
 
-### Responsive Design
+<td width="33%" align="center">
 
-Interfaces designed to work across
-desktop, tablet, and mobile environments.
+### RESPONSIVE
 
-### Accessibility
+Interfaces designed for
+desktop, tablet, and mobile.
 
-Building interfaces with semantic HTML,
-keyboard interaction, readable structure,
-and accessible user experiences.
+</td>
 
-### Performance
+<td width="33%" align="center">
 
-Keeping interfaces efficient through
-optimized assets, sensible rendering,
-and lightweight implementations.
+### ACCESSIBLE
 
-### Maintainability
+Semantic structure,
+keyboard interaction,
+and usable interfaces.
 
-Writing structured code that is easier
-to understand, customize, and extend.
+</td>
 
-### Interaction
+<td width="33%" align="center">
 
-Using animation, transitions,
-micro-interactions, and motion to create
-interfaces that feel responsive and alive.
+### PERFORMANCE
 
-### User Experience
+Efficient assets,
+lightweight implementations,
+and optimized experiences.
 
-Visual decisions are combined with
-clear hierarchy, intuitive interaction,
-and practical usability.
+</td>
 
----
+</tr>
 
-## DEVELOPMENT APPROACH
+<tr>
 
-> **Design with intention.  
-> Build with precision.  
-> Ship with purpose.**
+<td width="33%" align="center">
 
-LICODE explores the balance between
-**visual quality and engineering quality**.
+### MAINTAINABLE
 
-A beautiful interface should not only look good.
+Clean structure and
+code that is easier to
+understand and extend.
 
-It should also feel good to use,
-perform well, remain responsive,
-and be understandable to the developer
-working with the code.
+</td>
 
----
+<td width="33%" align="center">
 
-## TEMPLATES
+### INTERACTION
 
-LICODE provides both **free templates** and
-**premium templates**.
+Motion, animation,
+transitions, and
+micro-interactions.
 
-### Free
+</td>
 
-Open front-end resources created for
-learning, experimentation, customization,
-and personal projects.
+<td width="33%" align="center">
 
-### Premium
+### UX
 
-More advanced and complete resources
-focused on polished interfaces,
-larger experiences, and production-oriented
-front-end development.
+Clear hierarchy,
+intuitive interaction,
+and usability.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## PROJECTS
+## ✦ DEVELOPMENT PHILOSOPHY
 
-LICODE projects cover different areas of
-modern front-end development.
+<div align="center">
+
+### DESIGN WITH INTENTION.
+
+### BUILD WITH PRECISION.
+
+### SHIP WITH PURPOSE.
+
+<br>
+
+**Simple doesn't mean ordinary.**
+
+</div>
+
+<br>
+
+LICODE believes that good front-end development
+is more than writing code.
+
+A great interface should balance:
+
+**Visual Quality**
+
+with
+
+**Engineering Quality**
+
+The goal is to create experiences that look good,
+feel good, perform well, and remain easy to work with.
+
+---
+
+## 🚀 TEMPLATES
+
+LICODE provides both **free templates**
+and **premium templates**.
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### FREE
+
+Open resources created for:
+
+- Learning
+- Experimentation
+- Personal projects
+- Customization
+- Creative exploration
+
+</td>
+
+<td width="50%">
+
+### PREMIUM
+
+More advanced resources focused on:
+
+- Larger experiences
+- Advanced interactions
+- Polished interfaces
+- Complete websites
+- Production-oriented projects
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📦 PROJECTS
+
+LICODE projects explore different areas
+of modern front-end development.
 
 ```text
-01  →  Creative UI
-02  →  Interactive Components
-03  →  Landing Pages
-04  →  Authentication UI
-05  →  Dashboards
-06  →  Web Applications
-07  →  Creative Experiments
+01  ── Creative UI
+02  ── Interactive Components
+03  ── Landing Pages
+04  ── Authentication
+05  ── Dashboards
+06  ── Web Applications
+07  ── Creative Experiments
