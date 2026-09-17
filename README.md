@@ -398,6 +398,8 @@ See the interfaces, experiments, and development process behind LICODE.
 
 ---
 
+<div align="center">
+
 # 🤝 COLLABORATION
 
 Have an idea, project, or creative concept?
